@@ -4,19 +4,19 @@
 
 ## Project Overview
 
-[UmSim] is a mobile application designed to address the challenges faced by Umrah pilgrims in comprehending the intricacies of the Umrah rituals, even after undergoing Umrah guidance sessions. This user-friendly app provides a comprehensive suite of features to enhance the Umrah experience, ensuring a fulfilling and spiritually enriching pilgrimage for all.
+UmSim is a mobile application designed to address the challenges faced by Umrah pilgrims in comprehending the intricacies of the Umrah rituals, even after undergoing Umrah guidance sessions. This user-friendly app provides a comprehensive suite of features to enhance the Umrah experience, ensuring a fulfilling and spiritually enriching pilgrimage for all.
 
 ## Key Features
 
-* [Step-by-Step Umrah Guide]
-* [Virtual Reality Simulation]
-* [Interactive Du'a and Supplications]
+* Step-by-Step Umrah Guide
+* Virtual Reality Simulation
+* Interactive Du'a and Supplications
 
 ## Technology Used
 
-* Programming Languages: [C#]
-* Game Engine: [Unity]
-* Library: [Unity XR Package]
+* Programming Languages: C#
+* Game Engine: Unity
+* Library: Unity XR Package
 
 ## Installation and Configuration
 
@@ -39,9 +39,9 @@ We welcome contributions!
 ## Contact
 
 Please contact us for questions or discussion.
-* Email: [artiacode@gmail.com]
-* [https://www.linkedin.com/in/mardiwp/]
-* [https://medium.com/@artiacode]
-* [https://www.instagram.com/artiacode/]
-* [https://twitter.com/ArtiaCode]
-* [https://github.com/ArtiaCode]
+* Email: artiacode@gmail.com
+* LinkedIn: https://www.linkedin.com/in/mardiwp
+* Medium: https://medium.com/@artiacode
+* Instagram: https://www.instagram.com/artiacode
+* Twitter: https://twitter.com/ArtiaCode
+* GitHub: https://github.com/ArtiaCode
