@@ -25,7 +25,7 @@ UmSim is a mobile application designed to address the challenges faced by Umrah 
 
 ## Running Applications
 
-You can run it with the Unity game engine or you can build the installation file and install it on your mobile device.
+* You can run it with the Unity game engine or you can build the installation file and install it on your mobile device.
 
 ## Project Structure
 
@@ -34,7 +34,7 @@ You can run it with the Unity game engine or you can build the installation file
 
 ## Contribution
 
-We welcome contributions!
+* We welcome contributions!
 
 ## Contact
 
